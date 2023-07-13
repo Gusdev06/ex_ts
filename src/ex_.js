@@ -7,3 +7,4 @@ function salutation(nome) {
     return nome;
 }
 console.log(`Ola ${salutation('Gustavo')}`);
+
